@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "framework.h"
 #include "States.h"
 
 D3D11_RASTERIZER_DESC States::rasterizerDesc;

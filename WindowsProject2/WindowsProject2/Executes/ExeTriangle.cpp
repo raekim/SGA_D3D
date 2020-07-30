@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "framework.h"
 #include "ExeTriangle.h"
 
 ExeTriangle::ExeTriangle(ExecuteValues* values) : Execute(values), vertexCount(3), indexCount(3)

@@ -1,4 +1,4 @@
-﻿#include "stdafx.h"
+﻿#include "framework.h"
 #include "Path.h"
 #include <string.h>
 #include "String.h"

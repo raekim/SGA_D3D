@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "framework.h"
 #include "Keyboard.h"
 
 Keyboard* Keyboard::instance = NULL;

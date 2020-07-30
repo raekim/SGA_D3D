@@ -51,7 +51,7 @@ using namespace std;
 // Json Cpp
 #include <json/json.h>
 #pragma comment(lib, "jsoncpp.lib")
-#pragma warning(disable : 4996)	// 경고를 끄는 것
+
 
 // DirectxTex
 #include <DirectXTex.h>

@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "framework.h"
 #include "Time.h"
 
 Time* Time::instance = NULL;

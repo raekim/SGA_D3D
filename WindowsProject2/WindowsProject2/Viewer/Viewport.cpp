@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "framework.h"
 #include "Viewport.h"
 
 Viewport::Viewport(float width, float height, float x, float y, float minDepth, float maxDepth)

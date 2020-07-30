@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "framework.h"
 #include "Perspective.h"
 
 Perspective::Perspective(float width, float height, float fov, float zn, float zf)

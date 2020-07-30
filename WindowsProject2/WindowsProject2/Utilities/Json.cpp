@@ -1,4 +1,7 @@
-#include "stdafx.h"
+#include "framework.h"
+
+#pragma warning(disable : 4996)	// 경고를 끄는 것
+
 #include "Json.h"
 #include <fstream>
 

@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "framework.h"
 #include "D3D.h"
 
 D3D* D3D::instance = NULL;
